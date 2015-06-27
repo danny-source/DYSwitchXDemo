@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15F7B79A-3F1B-447D-8D71-BC68A54E7945</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DYSwitchXDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8626C1927EDF192D25852F13FD1EFBD90DF8108D</key>
+		<string>ssh://dylab.mediweb.35g.tw:30001/Danny_Lin/DYSwitchXDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DYSwitchXDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8626C1927EDF192D25852F13FD1EFBD90DF8108D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://dylab.mediweb.35g.tw:30001/Danny_Lin/DYSwitchXDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8626C1927EDF192D25852F13FD1EFBD90DF8108D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8626C1927EDF192D25852F13FD1EFBD90DF8108D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DYSwitchXDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
